@@ -6,4 +6,4 @@ Information about me and my page.
 <p align=center> ${{\color{#228b22}\huge{\text{Woofie / Lloyd}}}}$ </p>
 <p align=center> ${{\color{#228b22}\huge{\text{They/Them}}}}$ </p>
 <p align=center> ${{\color{#89cff0}{\text{I like to program stuff (certified in python, learning other programming languages!)}}}}$ </p>
-<p align=center> ${{\color{#89cff0}{\text{I also like to draw and stuff, tho that's unreleated to this page for the most part. If you'd like to see my art, check out my linked pages!)}}}}$ </p>
+<p align=center> ${{\color{#89cff0}{\text{I also like to draw and stuff, tho that's unreleated to this page for the most part.)}}}}$ </p>
